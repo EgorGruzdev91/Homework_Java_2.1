@@ -4,7 +4,7 @@ public class Main {
         int bonus_point = 20;
 
         int Bonus = (amount / bonus_point);
-        System.out.println("Вам начисленно " + Bonus + " бонуса(ов)");
+        System.out.println("Вам начислено " + Bonus + " бонуса(ов)");
 
     }
 }
